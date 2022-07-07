@@ -40,7 +40,7 @@ class Elementary_Sounds:
 
         self.nb_sounds = len(self.definition)
 
-        self._preprocess_sounds(save_raw_values)
+        self._preprocess_sounds(save_raw_values, shuffle_sounds=False)
 
         self.families_count = {}
 

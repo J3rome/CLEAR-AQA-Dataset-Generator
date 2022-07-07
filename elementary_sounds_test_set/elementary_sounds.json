@@ -1,0 +1,1082 @@
+[
+  {
+    "instrument": "bass",
+    "note": "A",
+    "octave": 3,
+    "filename": "bass_3_A.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "A#",
+    "octave": 3,
+    "filename": "bass_3_A#.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "B",
+    "octave": 3,
+    "filename": "bass_3_B.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "C",
+    "octave": 3,
+    "filename": "bass_3_C.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "C",
+    "octave": 4,
+    "filename": "bass_4_C.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "C#",
+    "octave": 3,
+    "filename": "bass_3_C#.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "C#",
+    "octave": 4,
+    "filename": "bass_4_C#.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "D",
+    "octave": 3,
+    "filename": "bass_3_D.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "D",
+    "octave": 4,
+    "filename": "bass_4_D.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "D#",
+    "octave": 3,
+    "filename": "bass_3_D#.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "D#",
+    "octave": 4,
+    "filename": "bass_4_D#.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "E",
+    "octave": 3,
+    "filename": "bass_3_E.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "E",
+    "octave": 4,
+    "filename": "bass_4_E.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "F",
+    "octave": 3,
+    "filename": "bass_3_F.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "F",
+    "octave": 4,
+    "filename": "bass_4_F.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "F#",
+    "octave": 3,
+    "filename": "bass_3_F#.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "F#",
+    "octave": 4,
+    "filename": "bass_4_F#.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "G",
+    "octave": 3,
+    "filename": "bass_3_G.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "G",
+    "octave": 4,
+    "filename": "bass_4_G.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "bass",
+    "note": "G#",
+    "octave": 3,
+    "filename": "bass_3_G#.wav",
+    "is_ref": true,
+    "pack": "bass_alejandro_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "A",
+    "octave": 3,
+    "filename": "cello_3_A.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "A",
+    "octave": 4,
+    "filename": "cello_4_A.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "A#",
+    "octave": 3,
+    "filename": "cello_3_A#.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "B",
+    "octave": 3,
+    "filename": "cello_3_B.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "C",
+    "octave": 3,
+    "filename": "cello_3_C.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "C",
+    "octave": 4,
+    "filename": "cello_4_C.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "C#",
+    "octave": 3,
+    "filename": "cello_3_C#.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "C#",
+    "octave": 4,
+    "filename": "cello_4_C#.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "D",
+    "octave": 3,
+    "filename": "cello_3_D.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "D",
+    "octave": 4,
+    "filename": "cello_4_D.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "D#",
+    "octave": 3,
+    "filename": "cello_3_D#.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "D#",
+    "octave": 4,
+    "filename": "cello_4_D#.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "E",
+    "octave": 3,
+    "filename": "cello_3_E.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "E",
+    "octave": 4,
+    "filename": "cello_4_E.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "F",
+    "octave": 3,
+    "filename": "cello_3_F.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "F",
+    "octave": 4,
+    "filename": "cello_4_F.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "F#",
+    "octave": 3,
+    "filename": "cello_3_F#.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "F#",
+    "octave": 4,
+    "filename": "cello_4_F#.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "G",
+    "octave": 3,
+    "filename": "cello_3_G.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "G",
+    "octave": 4,
+    "filename": "cello_4_G.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "G#",
+    "octave": 3,
+    "filename": "cello_3_G#.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "cello",
+    "note": "G#",
+    "octave": 4,
+    "filename": "cello_4_G#.wav",
+    "is_ref": true,
+    "pack": "cello_nico_improvement_recordings"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "A",
+    "octave": 3,
+    "filename": "clarinet_3_A.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "A",
+    "octave": 4,
+    "filename": "clarinet_4_A.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "A#",
+    "octave": 3,
+    "filename": "clarinet_3_A#.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "A#",
+    "octave": 4,
+    "filename": "clarinet_4_A#.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "B",
+    "octave": 3,
+    "filename": "clarinet_3_B.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "B",
+    "octave": 4,
+    "filename": "clarinet_4_B.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "C",
+    "octave": 4,
+    "filename": "clarinet_4_C.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "C#",
+    "octave": 4,
+    "filename": "clarinet_4_C#.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "D",
+    "octave": 3,
+    "filename": "clarinet_3_D.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "D",
+    "octave": 4,
+    "filename": "clarinet_4_D.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "D#",
+    "octave": 3,
+    "filename": "clarinet_3_D#.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "D#",
+    "octave": 4,
+    "filename": "clarinet_4_D#.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "E",
+    "octave": 3,
+    "filename": "clarinet_3_E.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "E",
+    "octave": 4,
+    "filename": "clarinet_4_E.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "F",
+    "octave": 3,
+    "filename": "clarinet_3_F.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "F",
+    "octave": 4,
+    "filename": "clarinet_4_F.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "F#",
+    "octave": 3,
+    "filename": "clarinet_3_F#.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "F#",
+    "octave": 4,
+    "filename": "clarinet_4_F#.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "G",
+    "octave": 3,
+    "filename": "clarinet_3_G.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "G",
+    "octave": 4,
+    "filename": "clarinet_4_G.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "G#",
+    "octave": 3,
+    "filename": "clarinet_3_G#.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "clarinet",
+    "note": "G#",
+    "octave": 4,
+    "filename": "clarinet_4_G#.wav",
+    "is_ref": true,
+    "pack": "clarinet_pablo_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "A",
+    "octave": 4,
+    "filename": "flute_4_A.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "A",
+    "octave": 5,
+    "filename": "flute_5_A.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "A#",
+    "octave": 4,
+    "filename": "flute_4_A#.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "A#",
+    "octave": 5,
+    "filename": "flute_5_A#.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "B",
+    "octave": 4,
+    "filename": "flute_4_B.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "B",
+    "octave": 5,
+    "filename": "flute_5_B.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "C",
+    "octave": 4,
+    "filename": "flute_4_C.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "C",
+    "octave": 5,
+    "filename": "flute_5_C.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "C#",
+    "octave": 4,
+    "filename": "flute_4_C#.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "C#",
+    "octave": 5,
+    "filename": "flute_5_C#.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "D",
+    "octave": 4,
+    "filename": "flute_4_D.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "D",
+    "octave": 5,
+    "filename": "flute_5_D.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "D#",
+    "octave": 4,
+    "filename": "flute_4_D#.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "D#",
+    "octave": 5,
+    "filename": "flute_5_D#.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "E",
+    "octave": 4,
+    "filename": "flute_4_E.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "E",
+    "octave": 5,
+    "filename": "flute_5_E.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "F",
+    "octave": 4,
+    "filename": "flute_4_F.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "F",
+    "octave": 5,
+    "filename": "flute_5_F.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "F#",
+    "octave": 4,
+    "filename": "flute_4_F#.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "F#",
+    "octave": 5,
+    "filename": "flute_5_F#.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "G",
+    "octave": 4,
+    "filename": "flute_4_G.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "G",
+    "octave": 5,
+    "filename": "flute_5_G.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "G#",
+    "octave": 4,
+    "filename": "flute_4_G#.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "flute",
+    "note": "G#",
+    "octave": 5,
+    "filename": "flute_5_G#.wav",
+    "is_ref": true,
+    "pack": "flute_almudena_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "A",
+    "octave": 4,
+    "filename": "trumpet_4_A.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "A",
+    "octave": 5,
+    "filename": "trumpet_5_A.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "A#",
+    "octave": 4,
+    "filename": "trumpet_4_A#.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "A#",
+    "octave": 5,
+    "filename": "trumpet_5_A#.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "B",
+    "octave": 4,
+    "filename": "trumpet_4_B.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "C",
+    "octave": 4,
+    "filename": "trumpet_4_C.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "C",
+    "octave": 5,
+    "filename": "trumpet_5_C.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "C#",
+    "octave": 4,
+    "filename": "trumpet_4_C#.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "C#",
+    "octave": 5,
+    "filename": "trumpet_5_C#.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "D",
+    "octave": 4,
+    "filename": "trumpet_4_D.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "D",
+    "octave": 5,
+    "filename": "trumpet_5_D.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "D#",
+    "octave": 4,
+    "filename": "trumpet_4_D#.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "D#",
+    "octave": 5,
+    "filename": "trumpet_5_D#.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "E",
+    "octave": 4,
+    "filename": "trumpet_4_E.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "E",
+    "octave": 5,
+    "filename": "trumpet_5_E.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "F",
+    "octave": 4,
+    "filename": "trumpet_4_F.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "F",
+    "octave": 5,
+    "filename": "trumpet_5_F.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "F#",
+    "octave": 4,
+    "filename": "trumpet_4_F#.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "F#",
+    "octave": 5,
+    "filename": "trumpet_5_F#.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "G",
+    "octave": 4,
+    "filename": "trumpet_4_G.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "G",
+    "octave": 5,
+    "filename": "trumpet_5_G.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "G#",
+    "octave": 4,
+    "filename": "trumpet_4_G#.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "trumpet",
+    "note": "G#",
+    "octave": 5,
+    "filename": "trumpet_5_G#.wav",
+    "is_ref": true,
+    "pack": "trumpet_ramon_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "A",
+    "octave": 4,
+    "filename": "violin_4_A.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "A",
+    "octave": 5,
+    "filename": "violin_5_A.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "A#",
+    "octave": 4,
+    "filename": "violin_4_A#.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "A#",
+    "octave": 5,
+    "filename": "violin_5_A#.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "B",
+    "octave": 4,
+    "filename": "violin_4_B.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "B",
+    "octave": 5,
+    "filename": "violin_5_B.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "C",
+    "octave": 4,
+    "filename": "violin_4_C.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "C",
+    "octave": 5,
+    "filename": "violin_5_C.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "C#",
+    "octave": 4,
+    "filename": "violin_4_C#.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "C#",
+    "octave": 5,
+    "filename": "violin_5_C#.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "D",
+    "octave": 4,
+    "filename": "violin_4_D.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "D",
+    "octave": 5,
+    "filename": "violin_5_D.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "D#",
+    "octave": 4,
+    "filename": "violin_4_D#.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "D#",
+    "octave": 5,
+    "filename": "violin_5_D#.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "E",
+    "octave": 4,
+    "filename": "violin_4_E.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "E",
+    "octave": 5,
+    "filename": "violin_5_E.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "F",
+    "octave": 4,
+    "filename": "violin_4_F.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "F",
+    "octave": 5,
+    "filename": "violin_5_F.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "F#",
+    "octave": 4,
+    "filename": "violin_4_F#.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "F#",
+    "octave": 5,
+    "filename": "violin_5_F#.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "G",
+    "octave": 4,
+    "filename": "violin_4_G.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "G",
+    "octave": 5,
+    "filename": "violin_5_G.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "G#",
+    "octave": 4,
+    "filename": "violin_4_G#.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  },
+  {
+    "instrument": "violin",
+    "note": "G#",
+    "octave": 5,
+    "filename": "violin_5_G#.wav",
+    "is_ref": true,
+    "pack": "violin_raquel_reference"
+  }
+]
